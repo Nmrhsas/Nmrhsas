@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suharmin
-- 👀 I’m interested in developing website.
-- 🌱 I’m currently learning HTML and CSS and will proceed with JS later on.
+- 👀 I’m.
+- 🌱 I’m.
 -
 
 <!---
